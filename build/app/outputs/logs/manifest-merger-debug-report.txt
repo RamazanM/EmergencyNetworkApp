@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from [:sensors] C:\Users\ttari\Desktop\EmergencyNetworkApp\build\sensors\intermediates\merged_manýfests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d6f193fa49a60ff49d7795416f2c7a78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\8abd0a944d11699464ed3a91f4c7f30b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\6106e4e6a37a216e54b06fde5b981489\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\88b7fb92e209be22679fe64df035e5f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\4f272cb6ec001ba6547de5cc57622883\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\0e2d535c8687fc95e322308edc8658e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\28135c55aa6d2625d2a40566f2e3693e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\c007dac517064d382bb265a16e685260\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\a8f7d8d7b96ccf0a7685770d440f57c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\a71d24694a492fe9979f7004aa23afb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\ff706327cedb9d3bd6e02a3019bc2d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\0faa3d875a05a9505433a4429fefe15a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\35b4de531dbf4a692edd04745d1c88c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\735c1445b1404dae1bf81315fff55efe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\b0d99ed30af78bf121efff2ee5b3d7b9\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\bfbe7792e925349b4cd35313da532b3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\7d8e1debe9b5a6a73144e805ba73acbf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\cede4aaafedf905b3815599d403988fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\589d8de22bb3747c42aa57b3284b049e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\8fcbb1772e7ad9f37551b7f4914473b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\af0cf6181f5d64cace6c391fd73c5820\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml:1:1-14:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml:1:1-14:12
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:70-116
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:70-116
+	android:versionCode
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:10:5-58
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:10:19-55
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:14:5-86
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:14:22-83
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:18:5-109
+	tools:ignore
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:18:71-106
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:18:22-70
+permission#android.permission.OVERRIDE_WIFI_CONFIG
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:19:17-71
+application
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:21:5-45:19
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\b0d99ed30af78bf121efff2ee5b3d7b9\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\b0d99ed30af78bf121efff2ee5b3d7b9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:23:9-37
+	android:icon
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:22:9-57
+activity#com.ramazanm.deprem_mobil.MainActivity
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:26:9-44:20
+	android:launchMode
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:28:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:30:13-144
+	android:theme
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:27:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:38:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:sensors] C:\Users\ttari\Desktop\EmergencyNetworkApp\build\sensors\intermediates\merged_manýfests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sensors] C:\Users\ttari\Desktop\EmergencyNetworkApp\build\sensors\intermediates\merged_manýfests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d6f193fa49a60ff49d7795416f2c7a78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\d6f193fa49a60ff49d7795416f2c7a78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\8abd0a944d11699464ed3a91f4c7f30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\8abd0a944d11699464ed3a91f4c7f30b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\6106e4e6a37a216e54b06fde5b981489\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\6106e4e6a37a216e54b06fde5b981489\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\88b7fb92e209be22679fe64df035e5f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\88b7fb92e209be22679fe64df035e5f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\4f272cb6ec001ba6547de5cc57622883\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\4f272cb6ec001ba6547de5cc57622883\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\0e2d535c8687fc95e322308edc8658e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\0e2d535c8687fc95e322308edc8658e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\28135c55aa6d2625d2a40566f2e3693e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\28135c55aa6d2625d2a40566f2e3693e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\c007dac517064d382bb265a16e685260\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\c007dac517064d382bb265a16e685260\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\a8f7d8d7b96ccf0a7685770d440f57c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\a8f7d8d7b96ccf0a7685770d440f57c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\a71d24694a492fe9979f7004aa23afb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\a71d24694a492fe9979f7004aa23afb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\ff706327cedb9d3bd6e02a3019bc2d8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\ff706327cedb9d3bd6e02a3019bc2d8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\067c2687220c5189abcc4c0fcd267772\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\0faa3d875a05a9505433a4429fefe15a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\0faa3d875a05a9505433a4429fefe15a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\35b4de531dbf4a692edd04745d1c88c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\35b4de531dbf4a692edd04745d1c88c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\735c1445b1404dae1bf81315fff55efe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\735c1445b1404dae1bf81315fff55efe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\b0d99ed30af78bf121efff2ee5b3d7b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\b0d99ed30af78bf121efff2ee5b3d7b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\bfbe7792e925349b4cd35313da532b3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\bfbe7792e925349b4cd35313da532b3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\7d8e1debe9b5a6a73144e805ba73acbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\7d8e1debe9b5a6a73144e805ba73acbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\cede4aaafedf905b3815599d403988fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\cede4aaafedf905b3815599d403988fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\589d8de22bb3747c42aa57b3284b049e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\589d8de22bb3747c42aa57b3284b049e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\8fcbb1772e7ad9f37551b7f4914473b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\8fcbb1772e7ad9f37551b7f4914473b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\af0cf6181f5d64cace6c391fd73c5820\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ttari\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\af0cf6181f5d64cace6c391fd73c5820\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ttari\Desktop\EmergencyNetworkApp\android\app\src\debug\AndroidManifest.xml
