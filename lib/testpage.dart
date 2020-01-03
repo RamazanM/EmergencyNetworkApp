@@ -1,5 +1,9 @@
 import 'dart:async';
+import 'package:deprem_mobil/wifiemergency.dart';
 import 'package:flutter/material.dart';
+import 'package:sensors/sensors.dart';
+import 'wifiemergency.dart';
+import 'serverhandler.dart';
 class TestPage extends StatefulWidget{
   @override
   State<StatefulWidget> createState()=>TestPageState();
@@ -35,20 +39,18 @@ class TestPageState extends State<TestPage>{
   @override
   void initState() {
     super.initState();
-    //WifiFeatures.getSSIDList();
-   // ServerHandler s=new ServerHandler();
-    // if(ServerHandler.server==null) s.bindServer();
-    // _streamSubscriptions.add(gyroscopeEvents.listen((GyroscopeEvent e){
-    //   setState(() {
-    //     gyroValues=<double>[e.x,e.y,e.z];
-    //     quake=(e.x.abs()+e.y.abs()+e.z.abs()>0.005);
-    //   });
-    // }));
-    // WifiFeatures.hasInternet().then((val){
-      // setState(() {
-      //   hasInternet=val;
-      // });
-    //});
+
+    _streamSubscriptions.add(gyroscopeEvents.listen((GyroscopeEvent e){
+      setState(() {
+        gyroValues=<double>[e.x,e.y,e.z];
+        quake=(e.x.abs()+e.y.abs()+e.z.abs()>0.005);
+      });
+    }));
+    WifiFeatures.hasInternet().then((val){
+      setState(() {
+        hasInternet=val;
+      });
+    });
   }
 
 
