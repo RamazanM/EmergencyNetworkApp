@@ -1,19 +1,279 @@
-[
-    {
-        "title": "Olay Yerinin Değerlendirilmesi",
-        "content": "•  Kazaya uğrayan aracı mümkünse güvenli bir alana alın; kontağını kapatılıp el frenini çekin; LPGli ise tüpün vanasını kapatın.•   Olay yerini görünebilir biçimde üçgen reflektör vb. kullanılarak işaretleyin.•   Meraklı kişileri olay yerinden uzaklaştırın.•   Olası patlama ve yangın riskini önlemek için olay yerinde sigara içmeyin.•   Gaz varlığı söz konusu ise oluşabilecek zehirlenmelerin önlenmesi için gerekli önlemleri alın.•   Ortamı havalandırın.•   Kıvılcım oluşturacak ışıklandırma ya da çağrı araçları kullanmayın/kullanımına izin vermeyin.•   Hasta/yaralıyı yerinden oynatmayın.•   Hasta/yaralıları   yaşam   bulguları   yönünden değerlendirin.•   Hasta/yaralıyı kırık ve kanama yönünden değerlendirin.•   Bilinci kapalı olan hasta/yaralıya ağızdan hiçbir şey vermeyin.•   Hasta/yaralıları sıcak tutun.•Tıbbi yardım isteyin (112).•   Hasta/yaralının  endişelerini  giderin;  nazik  ve hoşgörülü olun.•   Hasta/yaralının yarasını görmesini engelleyin.•   Hasta/yaralı ve olay hakkındaki bilgileri kaydedin.•   Yardım ekibi gelene kadar olay yerinde kalın"
+[{
+        "title": "İlk Yardım Temel Uygulamaları",
+        "subtitles": [{
+            "title": "İlk Yardım Nedir?",
+            "content": "Herhangi bir kaza ya da yaşamı tehlikeye düşüren        bir durumda,        sağlık görevlileri tarafından tıbbi yardım        sağlanıncaya kadar,        hayatın kurtarılması ya da durumun        daha kötüye gitmesini önleyebilmek amacıyla olay        yerinde,        tıbbi araç gereç aranmaksızın mevcut araç ve        gereçlerle yapılan ilaçsız uygulamalardır "
+        }, {
+            "title": "İlk Yardımcı Kimdir?",
+            "content": "İlk yardımın tanımında belirtilen amaç doğrultusunda,        hasta / yaralıya tıbbi araç ve gereç aranmaksızın mevcut        araç ve gereçlerle,        sağlık ekibi gelinceye kadar,        ilaçsız        uygulamaları yapan,        konuyla ilgili eğitim sonunda ilk        yardımcı sertifikası almış kişiyi tanımlar.        "
+        }, {
+            "title": "İlk Yardımın Öncelikli Amaçları Nelerdir?",
+            "content": "• Yaşamsal fonksiyonların sürdürülmesini sağlamak,•        Hasta / yaralının durumunun kötüleşmesini engellemek,        •İyileştirmeyi kolaylaştırmak.        "
+        }, {
+            "title": "Koruma",
+            "content": "Olay yerinde olası tehlikeleri belirleyerek güvenli bir        çevre oluşturmaktır.        1. Kazaya uğrayan araç mümkünse güvenli bir alana        alınmalıdır.        2. Olay yeri görünebilir biçimde işaretlenmelidir.        3. Meraklı kişiler olay yerinden uzaklaştırılmalıdır.        4. Kazaya uğrayan aracın kontak anahtarı kapatılmalıdır.        5. Sigara içilmemeli ve içilmesine izin verilmemelidir.        6. Gaz varlığı söz konusu ise;zehirlenmelerin        önlenmesi için gerekli önlemler alınmalıdır.        7. Gaz tüpünün vanası kapatılmalı,        ortam        havalandırılmalıdır.        8. Kıvılcım oluşturacak ışıklandırma veya çağrı araçlarının        kullanımına izin verilmemelidir.        9. Hasta / yaralılar yerlerinden kımıldatılmamalıdır.        10. Hasta / yaralılar yaşam bulguları yönünden        değerlendirilmelidir.        11. Kanamalı durumlarda mutlaka Hepatit B,        C,        HIV / AIDS        gibi hastalıklardan korunmak için eldiven giyilmelidir.        "
+        }, {
+            "title": "İlk Yardımcının Müdahalede Yapması Gerekenler",
+            "content": "1. Hasta/yaralının durumu değerlendirilmeli,        2. Hasta / yaralının korku ve endişeleri giderilmeli,        3. Hasta / yaralıya müdahalede yardımcı olacak kişiler        organize edilmeli,        4. Hasta / yaralının durumunun ağırlaşmasını engellemek için gerekli müdahale gerçekleştirilmeli,        5. Kanama,        kırık,        çıkık ve burkulma vb.durumlarda        yerinde müdahale edilmeli,        6. Hasta / yaralının yarasını görmesine izin verilmemeli,        7. Hasta / yaralıları hareket ettirmeden müdahalede        bulunulmalı,        8. Hasta / yaralıların en uygun yöntemlerle en yakın        sağlık kuruluşuna sevki sağlanmalı(112),        9. Ancak herhangi bir tehlike yok ise hasta ya da yaralı        yerinden kımıldatılmamalıdır "
+        }]
+
     },
     {
+        "title": "İnsan Vücudu İle İlgili Bilinmesi Gerekenler",
+        "subtitles": [{
+            "title": "Dolaşım Sistemi",
+            "content": "Vücudun ihtiyacı olan oksijeni, besini, hormonları,        pıhtılaşma ve koruyucu elemanları hücrelere taşır.        Kalp,        damarlar ve kandan oluşmaktadır.Kan dolaşım        sistemi içinde dolaşan,        kırmızı renkli yaşamsal bir        sıvıdır.Yetişkin bir kişide ortalama 4 - 5 litre kan bulunur(vücut ağırlığının yaklaşık % 8 veya 1 / 13’ ü).        "
+        }, {
+            "title": "Kanın Vücuttaki Görevleri",
+            "content": "• Oksijen ve besin öğelerini taşır.•        Vücut sıcaklığını muhafaza eder.•Vücudu enfeksiyonlara karşı korur.        "
+        }, {
+            "title": "Nabız",
+            "content": "Kanın atardamara yaptığı basınçtır.        Yetişkin bir insanın nabzı;60 - 100 / dakika’ dır.        Çocuk için normal nabız değeri;100 - 120 / dakika’ dır.        Bebek nabzı ise;100 - 140 / dakika normal değer olarak        kabul edilir.        "
+        }, {
+            "title": "Solunum Sistemi",
+            "content": "Vücudun ihtiyacı olan oksijeni (O2    ) alıp, zararlı    karbondioksiti(CO2) dışarı atar.İki bölümden oluşur: "
+        }, {
+            "title": "Solunum Sayısı",
+            "content": "Solunum sayısı; yetişkin kişilerde 12-20 kez/dakika,    çocuklarda 16 - 22 ve bebeklerde ise 18 - 24 kez / dakika’ dır "
+        }, {
+            "title": "Vücut Isısı",
+            "content": "Normalde koltuk altından ölçülmelidir. Yetişkin bir insanın    vücut sıcaklığı 36,    5° C’ dir.Bebeklerin ise 37,    5° C normal    değer kabul edilir "
+        }]
+
+    }, {
+        "title": "Olay Yerinin Değerlendirilmesi",
+        "subtitles": [{
+            "title": "Olay Yerinin Değerlendirilmesinde Yapmanız Gerekenler",
+            "content": "• Kazaya uğrayan aracı mümkünse güvenli bir alana alın; kontağını kapatılıp el frenini çekin; LPGli isetüpün vanasını kapatın.•Olay yerini görünebilir biçimde üçgen reflektör vb.kullanılarak işaretleyin.•Meraklı kişileri olay yerinden uzaklaştırın.•Olası patlama ve yangın riskini önlemek için olayyerinde sigara içmeyin.•Gaz varlığı söz konusu ise oluşabilecek zehirlenmelerinönlenmesi için gerekli önlemleri alın.•Ortamı havalandırın.•Kıvılcım oluşturacak ışıklandırma ya da çağrı araçlarıkullanmayın / kullanımına izin vermeyin.•Hasta / yaralıyı yerinden oynatmayın.•Hasta / yaralıları yaşam bulguları yönündendeğerlendirin.•Hasta / yaralıyı kırık ve kanama yönünden değerlendirin.•Bilinci kapalı olan hasta / yaralıya ağızdan hiçbir şeyvermeyin.•Hasta / yaralıları sıcak tutun.•Tıbbi yardım isteyin(112).•Hasta / yaralının endişelerini giderin;nazik vehoşgörülü olun.•Hasta / yaralının yarasını görmesini engelleyin.•Hasta / yaralı ve olay hakkındaki bilgileri kaydedin.•Yardım ekibi gelene kadar olay yerinde kalın "
+        }]
+    }, {
         "title": "Hasta Yaralı Değerlendirmesi",
-        "subtitles": [
-            {
-                "title": "Solunum Yolu Açıklığının Değerlendirilmesi",
-                "content": "Hasta/yaralının  ağız  içini  kontrol  ederek  yabancı cisim varsa işaret parmağınız ile çıkarın.•Bir  elinizi  hasta/yaralının  alnına,  diğer  elin  2 parmağını çene kemiğinin üzerine koyun, alından bastırılarak  başı  geriye  doğru  itip  Baş  Geri-Çene Yukarı pozisyonuna getirin."
-            },
-            {
-                "title": "Solunum Yolu Açıklığının Değerlendirilmesi",
-                "content": "Hasta/yaralının  ağız  içini  kontrol  ederek  yabancı cisim varsa işaret parmağınız ile çıkarın.•Bir  elinizi  hasta/yaralının  alnına,  diğer  elin  2 parmağını çene kemiğinin üzerine koyun, alından bastırılarak  başı  geriye  doğru  itip  Baş  Geri-Çene Yukarı pozisyonuna getirin."
-            }
-        ]
+        "subtitles": [{
+            "title": "Solunum Yolu Açıklığının Değerlendirilmesi (Airway)",
+            "content": "• Hasta/yaralının ağız içini kontrol ederek yabancı    cisim varsa işaret parmağınız ile çıkarın.•Bir elinizi hasta / yaralının alnına,    diğer elin 2    parmağını çene kemiğinin üzerine koyun,    alından    bastırılarak başı geriye doğru itip Baş Geri - Çene    Yukarı pozisyonuna getirin.    "
+        }, {
+            "title": "Solunumun Değerlendirilmesi (Breathing)",
+            "content": "• Hasta/yaralının solunumu Bak-Dinle-Hisset    yöntemiyle 10 sn.süreyle değerlendirilir.    "
+        }, {
+            "title": "Dolaşımın Değerlendirilmesi (Circulation)",
+            "content": "• Bilinci kapalı ve solunumu varsa; hasta/yaralının    nabzı değerlendirilir,    -Yetişkin ve çocuklarda şah damarından 3 parmak    ile 5 saniye,    -Bebeklerde kol atardamarından 3 parmak ile 5    saniye kontrol edilir.•İlk değerlendirme sonucunda hasta / yaralının bilinci    kapalı fakat solunum ve nabzı varsa derhal koma    pozisyonu(Bkz: Sayfa 23) verilerek diğer yaralılar    değerlendirilir.    "
+        }]
+    }, {
+        "title": "Solunum Yolu Tıkanıklıkları",
+        "content": "Solunum yolunun, solunumu gerçekleştirmesi için gerekli havanın geçmesine engel olacak şekilde tıkanmasıdır ",
+        "subtitles": [{
+            "title": "Kısmi Tıkanma",
+            "content": "Az da olsa, bir miktar hava geçişinin olduğu duruma    kısmi tıkanma denir.    Kişi öksürür,    nefes alabilir,    konuşabilir.İlk yardım olarak    kişiye dokunulmaz ve öksürmeye teşvik edilir.    "
+        }, {
+            "title": "Tam Tıkanma",
+            "content": "Hava girişinin tamamen engellendiği duruma ise tam    tıkanma denir.    Kişi nefes alamaz,    acı çeker gibi ellerini boynuna    götürür,    konuşamaz,    rengi morarır "
+        }, {
+            "title": "Yetişkin ve Çocuklarda Tam Tıkanmada İlk Yardım",
+            "content": "1. Hasta ayakta ya da oturur pozisyonda olabilir.    2. Hastanın bilinci kontrol edilir.    3. Hastanın sırtına iki kürek kemiği arasına 5 - 7 kez vurulur.    4. Ağız içerisinde bulunan cismin çıkıp çıkmadığı kontrol edilir.    5. Çıkmadıysa,    arkadan sarılarak hastanın gövdesi kavranır.    6. Bir el yumruk yapılarak,    başparmak çıkıntısı midenin    üst kısmına,    göğüs kemiği altına gelecek şekilde    konur.Diğer el ile yumruk yapılan el kavranır.    7. Kuvvetle arkaya ve yukarı doğru bastırılır.Bu hareket    5 - 7 kez yabancı cisim çıkıncaya kadar tekrarlanır.    "
+        }, {
+            "title": "Bebeklerde Tam Tıkanmada İlk Yardım",
+            "content": "1. Bebek, ilkyardımcının bir kolu üzerine ters olarak    yatırılır,    2. Başparmak ve diğer parmakların yardımıyla bebeğin    çenesi kavranarak boynundan tutulur ve yüzüstü    pozisyonda öne doğru eğilir,    3. Baş gergin ve gövdesinden aşağıda bir pozisyonda    tutulur,    4. 5 kez el bileğinin iç kısmı ile bebeğin kürek    kemiklerinin arasına hafifçe vurulur,    5. Diğer kolun üzerine başı elle kavranarak sırtüstü    çevrilir,    6. Yabancı cismin çıkıp çıkmadığına bakılır,    Solunum Yolu Tıkanıklıkları    kizilay_ilk_yardim_kitapcigi.indd 16 14.04 .2015 11: 02    17    Solunum Yolu Tıkanıklıkları    7. Cisim çıkmadıysa bebek,    gövdesinden aşağıda olacak    şekilde sırtüstü tutulur,    8. 5 kez iki parmakla göğüs kemiğinin alt kısmından    karnın üs kısmına baskı uygulanır,    9. Yabancı cisim çıkana kadar devam edilir,    10. Tıbbi yardım istenir(112).    "
+        }]
+    }, {
+        "title": "Diğer Acil Durumlar",
+        "subtitles": [{
+            "title": "Havale Nedir?",
+            "content": "Adalelerin kontrol edilemeyen kasılmalarıdır. Sinirmerkezindeki tahriş sonucu beyinde gerçekleşenelektriksel boşalmalardır.Havalenin nedenleri;•Beyinde yaralanma,•Beyinde enfeksiyon,•Yüksek ateş,•Bazı hastalıklar(sara krizi).Ateş nedenli havale,herhangi bir hastalık sonucuvücut sıcaklığının 38 C°’ nin üzerine çıkmasıyla oluşur.Genellikle 6 ay ve 6 yaş arasındaki çocuklarda rastlanır "
+        }, {
+            "title": "Havale Durumunda İlk Yardım ",
+            "content": "• Hasta öncelikle ILIK SUYLA ıslatılmış ıslak havlu yada çarşafa sarılır,•Ateş bu yöntemle düşmüyorsa oda sıcaklığındaküvete sokulur,duş alması sağlanır,•Ateş düşmezse tıbbi yardım istenir.(112)"
+        }, {
+            "title": "Sara Krizi",
+            "content": "• Hastada var olmayan koku alma, adale kasılması vb.ön haberci denilen belirtiler olur.•Bazen hasta bağırır,şiddetli ve ani bir şekildebilincini kaybederek yığılır.•Yoğun ve genel adale kasılması görülür.10 - 20 snkadar nefesi kesilir.•Dudaklarda ve yüzde morarma gözlenir.•Ardından kısa ve genel adale kasılması,sesli nefes alma,aşırı tükürük salgılanması,altına kaçırma görülebilir.•Hasta dilini ısırabilir,başını yere çarpıp yaralayabilir.•Aşırı kontrolsüz hareketler gözlenebilir.•Son aşamada hasta uyanır.Şaşkındır.Neredeolduğundan habersiz,uykulu hali vardır.•Olayla ilgili güvenlik önlemleri alınır.•Kriz kendi sürecine bırakılır.•Hasta bağlanmaz.•Kilitlenmiş çene açılmaya çalışılmaz.•Yabancı herhangi bir madde kullanılmaz(soğan,    kolonya vb.).•Kendini yaralamamasına dikkat edilir.•Etraftaki zarar verebilecek maddeler uzaklaştırılır.•Sıkan giysiler gevşetilir.•Kusma olasılığına karşı tetikte olunmalıdır.•Düşme sonucu yaralanma varsa ilgilenilir.•Tıbbi yardım istenir(112)."
+        }, {
+            "title": "Kan Şekeri Düşüklüğü",
+            "content": "Herhangi bir nedene bağlı olarak vücutta kan şekerieksildiği zaman ortaya çıkan durumdur.Kan şekeri düşüklüğü nedenleri;•Şeker hastalığı,•Uzun süren egzersizler,•Uzun süre aç kalma,•Mide - bağırsak ameliyatı.Kan Şekeri Düşmesi BelirtileriAni kan şekeri düşme belirtileri;•Terleme,•Hızlı nabız,•Titreme,•Yorgunluk,•Bulantı,•Aniden acıkma hissi.Yavaş yavaş ve uzun sürede düşerse;•Baş ağrısı,•Konuşma güçlüğü,•Görme bozukluğu,•Uyuşukluk,•Kafa karışıklığı,•Şuur kaybı.Kan Şekeri Düşüklüğünde İlk Yardım• Hastanın genel durumunu değerlendirin.•Bilinci yerindeyse şekerli su verin.•Belirtiler 15 - 20 dakikada geçmiyorsa sağlık kuruluşunabaşvurun.•Bilinci kapalı ise koma pozisyonu vererek yardımçağırın.•Kan şekeri düşük ya da yüksek olsa da 2 kesmeşeker almasını sağlayın."
+        }]
+    }, {
+        "title": "Bilinç Bozukluklarında İlk Yardım",
+        "content": "Bayılma (Senkop), beyne giden kan akışının azalması sonucu oluşan kısa süreli, yüzeysel ve geçici bilinç kaybıdır.",
+        "subtitles": [{
+            "title": "Bayılma nedenleri:",
+            "content": "• Korku ve aşırı heyecan,•Sıcak ve yorgunluk,•Kapalı ortam ve kirli hava,•Aniden ayağa kalkma,•Kan şekerinin düşmesi,•Şiddetli enfeksiyonlar."
+        }, {
+            "title": "Bayılma belirtileri:",
+            "content": "• Baş dönmesi, baygınlık ve yere düşme,•Bacaklarda uyuşma,bilinçte bulanıklık,•Yüzde solgunluk,•Üşüme ve terleme,•Hızlı ve zayıf nabız."
+        }, {
+            "title": "Kişi başının döneceğini hissederse:",
+            "content": "• Sırt üstü yatırın; ayaklarını 30 cm. kaldırın (Şok Pozisyonu),•Sıkan giysilerini gevşetin,•Kendini iyi hissedinceye kadar dinlenmesini sağlayın."
+        }, {
+            "title": "Kişi bayıldı ise:",
+            "content": "• Etraftaki meraklıları çevreden uzaklaştırın,•Hasta / yaralıyı sırt üstü yatırın ve ayaklarını 30 cmyukarı kaldırın.•Solunum yolu açıklığını kontrol edin ve koruyun.•Sıkan giysileri gevşetin.•Kusma varsa yan pozisyonda tutun."
+        }]
+    }, {
+        "title": "Koma Nedir?",
+        "content": "Yutkunma, öksürük gibi reflekslerin ve dıştan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybıdır.",
+        "subtitles": [{
+            "title": "Koma nedenleri",
+            "content": "• Düşme ya da şiddetli darbe, kafa travmaları,•Zehirlenmeler,•Şeker hastalığı,•Aşırı alkol ve uyuşturucu kullanımı,•Havale vb.ateşli hastalıklar,•Karaciğer hastalıkları "
+        }, {
+            "title": "Koma belirtileri",
+            "content": "• Yutkunma, öksürük vb. tepkilerin kaybolması,•Sesli ve ağrılı uyarılara cevap vermeme hali,•İdrar ve dışkı kontrolünün kaybolması."
+        }, {
+            "title": "Komada İlk Yardım",
+            "content": "• Olay yerinin güvenliğini sağlayın.•Hasta / yaralının yaşam bulgularını değerlendirin.•Hasta / yaralının bilincini kontrol edin.•Solunum yolu açıklığını sağlayın.•Koma pozisyonu verin ve 112’ yi arayın.•Hasta / yaralıyı sağlık ekipleri gelene kadar yalnızbırakmayın."
+        }, {
+            "title": "Koma Pozisyonu Nasıl Verilir?",
+            "content": "1. Hasta/yaralıyı sesli veya omzundan hafif sarsın;uyarı vererek bilincini kontrol edin.2. Sıkan giysilerini gevşetin.3. Ağız içinde yabancı cisim olup olmadığını kontrol edin.4. Bak,dinle,hisset yöntemi ile solunumunu kontrol edin.5. Şah damarından nabzını kontrol edin.6. Hasta / yaralının döndürüleceği tarafa diz çökün.7. Hasta / yaralının karşı tarafta kalan kolunu karşıomzunun üzerinekoyun.8. Karşı taraftakibacağını dik açıyapacak şekildekıvırın.9. İlk yardımcıya yakınkolu,baş hizasındaomuzdan yukarıuzatın.10. Karşı tarafı omuz vekalçadan tutarak birhamlede çevirin.11. Üstteki bacağı,kalça ve dizdenbükerek öne doğrudestek yapın.12. Alttaki bacağı hafifdizden bükerekarkaya destek yapın.13. Başı,uzatılan kolunüzerine yan pozisyonda hafif öne eğik konumagetirin.14. Tıbbi yardım(112) gelinceye kadar bu pozisyondatutun.15. 3– 5 dakika ara ile solunum ve nabzı kontrol edin."
+        }]
+    }, {
+        "title": "Şok Nedir?",
+        "content": "Dolaşım sisteminin yaşamsal organlara yeterince kan gönderememesi nedeniyle ortaya çıkan ve tansiyon düşüklüğü ile seyreden bir akut dolaşım yetmezliğidurumudur.Şok Çeşitleri Nelerdir ? •Kardiyojenik şok(kalp kökenli)• Hipovolemik şok(vücutta sıvı eksikliği / kaybı)• Toksik şok(zehirlenmeye bağlı)• Anaflaktik şok(alerjiye bağlı)Şok Belirtileri Nelerdir ? •Kan basıncında düşme• Hızlı ve zayıf nabız• Hızlı ve yüzeysel solunum• Ciltte soğukluk,solukluk ve nemlilik• Endişe ve huzursuzluk• Baş dönmesi• Dudak çevresinde solukluk ya da morarma• Susuzluk hissi• Bilinç seviyesinde azalma ",
+        "subtitles": [{
+            "title": "Şokta İlk Yardım",
+            "content": "• Hasta/yaralının endişe ve korkularını giderin.•Mümkün olduğunca temiz hava solumasını sağlayın.•Hava yolunun açıklığını sağlayın.•Kanama varsa hemen durdurun.•Şok pozisyonu verin.•Hasta / yaralıyı sıcak tutun.•Hasta / yaralıyı gereksiz yere hareket ettirmeyin.•112’ yi arayın."
+        }, {
+            "title": "Şok Pozisyonu Nasıl Verilir?",
+            "content": "1. Hasta/yaralıyı düz olarak sırt üstü yatırın.2. Hasta / yaralının bacaklarını 30 cm kadar yukarıkaldırarak,bacakların altına destek koyun(Çarşaf,    battaniye yastık, kıvrılmış giysi vb.).3. Hasta / yaralının üzerini örterek ısınmasını sağlayın.4. Yardım gelinceye kadar hasta / yaralının yanında kalın.5. Belli aralıklarla(2– 3 dakikada bir) yaşam bulgularınıdeğerlendirin."
+        }]
+    }, {
+        "title": "Kanamalarda İlk Yardım",
+        "content": "Damar bütünlüğünün bozulması sonucu kanın damardışına(vücut içine ya da dışına) çıkmasına kanama denir.",
+        "subtitles": [{
+            "title": "Vücutta Kanın Aktığı Bölgeye Göre Kanamalar ",
+            "content": "1. Dış Kanamalar: Kanın vücut dışına doğru akmasıdır.2. İç Kanamalar: Kanın vücut içine akmasıdır.3. Doğal Deliklerde Meydana Gelen Kanamalar: Kulak,burun,ağız,anüs(makat) ve üremeorganlarından olan kanamalardır."
+        }, {
+            "title": "Dış Kanamalarda İlk Yardım ",
+            "content": "• Yara üzerine direkt baskı uygulayın.•Kanama durmazsa ikinci bir bez koyarak basıncıarttırın.Kanamalarda İlk Yardımkizilay_ilk_yardim_kitapcigi.indd 26 14.04 .2015 11: 0227Kanamalarda İlk Yardım• Gerekirse bandaj ile sarıp kanlanmış bezlerikaldırmadan basıncı arttırın.•Kanayan bölgeye en yakın basınç noktasına basınçuygulayın.•Kanayan bölgeyi yukarı kaldırın.•Kanama kol veya bacaklardaysa ve kırık şüphesiyoksa kanama bölgesini kalp hizasından yukarıdatutun.•Şok pozisyonu verin.•Sık sık yaşam bulgularını kontrol edin.(2 - 3 dk.arayla)."
+        }, {
+            "title": "Turnike Uygulama Koşulları",
+            "content": "• Uzuv kopmuşsa,•Tüm kanama durdurma uygulamaları yetersizkalıyorsa,•Hasta / yaralının uzun mesafede taşınması gerekiyorsa,•Çok sayıda hasta / yaralının bulunduğu ortamda tekilk yardımcı varsa uygulanır."
+        }, {
+            "title": "İç Kanamalarda İlk Yardım",
+            "content": "• Hasta/yaralının bilincini ve solunumunu değerlendirin.•Üzerini örterek ayaklarını 30 cm.kaldırın.•Asla ağızdan yiyecek içecek vermeyin.•Kapalı kırık varsa,kan damarlarının yaralanmasınıönlemek ve bir iç kanamaya sebep olmamak içinhasta ya da yaralının hareketsiz kalmasını sağlayın.•Hasta / yaralının şok pozisyonunda yaşamsaldeğişimlerini izleyin.•112’ yi arayarak tıbbi yardım isteyin."
+        }, {
+            "title": "Burun Kanamasında İlk Yardım ",
+            "content": "• Öncelikle sakin olun.•Hastanın başını öne doğru eğin.Mümkünse oturtun.kizilay_ilk_yardim_kitapcigi.indd 28 14.04 .2015 11: 0229Unutulmamalıdır ki,kulak kanaması olası birbeyin kanamasının habercisi olabilir.Önemli!Kanamalarda İlk Yardım• Burun kanatlarını sıkıştırarak iki parmağınızla sıkın.•Bu işleme yaklaşık 5 dakika kadar devam edin.•Kanamanın durmaması halinde hasta ya da yaralıyıen yakın sağlık kuruluşuna götürün."
+        }, {
+            "title": "Kulak Kanamasında İlk Yardım",
+            "content": "• Kanama hafifse kulağı temiz bir bezle temizleyin.•Ciddi ise kulağı tıkamadan gazlı bezle kapatın.•Hasta / yaralının hareketsiz olarak,kanayan kulaküzerine yan yatmasını sağlayın.•Tıbbi yardım sağlayın.•Unutulmamalıdır ki,kulak kanaması olası bir beyinkanamasının habercisi olabilir."
+        }]
+
+    }, {
+        "title": "Isı Dengesi Bozuklukları",
+        "subtitles": [{
+            "title": "Yanık Çeşitleri",
+            "content": "1’inci Derece Yanıklar:•Alt deride ve derinin yüzeyinde,kızarıklık,(pembe,    kırmızı arası renk) şeklinde görülen doku hasarı vardır.•Ağrı vericidir.•Yanık bölgede ödem ve hafif şişlik vardır.•Genelde 48 saatlik süreç içinde iyileşir.2’ inci Derece Yanıklar: •Derinin 1. ve 2. tabakasını etkiler.•En bariz özelliği deride içi su dolu kabarcıklar(bül)oluşmasıdır.•Derinin kendini yenilemesiyle kendiliğinden iyileşir.•Çok ağrılıdır.3’ üncü Derece Yanıklar: •Derinin tüm tabakaları etkilenir.•Kaslar,sinirler,damarlar üzerinde etkilidir.•Beyaz kuru yaradan,siyah renge kadar aşamalarıvardır.•Ağrısızdır,çünkü bütün sinirler zarar görmüştür."
+        }, {
+            "title": "Yanığın Vücutta Olumsuz Etkileri Nelerdir?",
+            "content": "• Derinliğine, yaygınlığına ve oluştuğu bölgeye bağlıolarak,organ ve sistemlerde işleyiş bozukluğunayol açar.•Ağrı ve sıvı kaybına bağlı olarak şok meydana gelir.•Hasta / yaralının kendi vücudunda bulunan mikropve toksinlerle enfeksiyon riski oluşur "
+        }, {
+            "title": "Isı İle Oluşan Yanıkta İlk Yardım",
+            "content": "• Kişi hala yanıyorsa panik yapmayın; hareket ediyorsakoşmasını engelleyin.•Hasta / yaralının üzerini battaniye vb.ile kapatın veyuvarlanmasını sağlayın.•Yaşam bulgularını değerlendirin.•En az 20 dakika,soğuksu altında tutun.•Ödem oluşabileceğinden yüzük,bilezik vb.aksesuarlarını ve giysilerini çıkarın.•Deriyi sabunlu su ile dikkatle temizleyin.•Su toplayan yerleri patlatmayın.•Yanık bölgelere bandajuygulamayın.•Yanığın üzerini temizbezle örtün;üzerinehiçbir madde sürmeyin.•Hasta / yaralıyı battaniye ile örtün.•Yanık geniş ve sağlık kurumu uzaksa,kusma yoksa,bilinci açıksa hasta / yaralıya ağızdan sıvı vererek sıvıkaybını engelleyin(1 lt.su + 1 çay kaşığı karbonat +    1 çay kaşığı tuz).•Tıbbi yardım isteyin(112)."
+        }, {
+            "title": "Kimyasal Yanıklarda İlk Yardım ",
+            "content": "• Deriyle temas eden kimyasal maddenin deriyletemasını en kısa sürede kesin.•Giysileri çıkarın.•Yanık bölgeyi bol,tazyiksiz suyla,en az 20 - 25 dk.yumuşakça yıkayın.•Daha sonra hasta / yaralıyı battaniye vb.ile örtün.•Tıbbi yardım sağlayın."
+        }, {
+            "title": "Elektrik Yanıklarında İlk Yardım",
+            "content": "• Soğukkanlı ve sakin olun.•Hasta / yaralıya dokunmadan önce elektrik akımınıkesin.•Akımı kesme imkanı yoksa yalıtkan bir maddeylekişinin elektrikle temasını kesin.•Hasta / yaralının yaşam bulgularını değerlendirin.•Hasta / yaralıyı yerinden kımıldatmayın.•Hasar gören bölgeyi örtün.•Tıbbi yardım isteyin."
+        }, {
+            "title": "Sıcak Çarpmasında İlk Yardım ",
+            "content": "• Hastayı serin ve havadar bir yere alın.•Giysilerini çıkarın.•Sırt üstü yatırıp kol ve bacaklarını yükseltin.•Bulantı yoksa ve bilinci açıksa su ve tuz kaybınıgidermek için su,tuz,karbonatla hazırlanan sıvı yada soda içirin "
+        }, {
+            "title": "Donmalar",
+            "content": "Aşırı soğuk nedeni ile soğuğa maruz kalan bölgeyeyeterince kan gitmemesi ve dokulardaki kanınpıhtılaşması ile dokuda hasar oluşmasıdır.1’ inci Derece Donma: •Donmanın en hafif şeklidir.•Deride solukluk,soğukluk hissi;vücutta uyuşukluk,halsizlik,ve daha sonra kızarıklık ve karıncalanmahissi yaratır.2’ inci Derece Donma: •Zarar gören bölgede gerginlik hissi,ödem,şişkinlik,ağrı,içi su dolu kabarcıklar,•Su toplanması iyileşirken,siyah kabuklara dönüşür.3’ üncü Derece Donma: •Dokuların geriye dönülmez biçimde hasarauğramasıdır.•Canlı ve sağlıklı deriden kesin hatları ile ayrılan siyahbir bölge oluşur."
+        }, {
+            "title": "Donmalarda İlk Yardım",
+            "content": "• Hasta/yaralıyı ılık bir ortama alıp soğukla temasınıkesin;sakinleştirin.•Kesin istirahat ettirip hareket etmemesini sağlayın.•Kuru giysiler giydirin.•Bilinci açık ise sıcak,şekerli içecekler verin.•Su toplamış bölgeleri asla patlatmayın;üstünü örtün.•Donuk bölgeyi asla ovmayın,kendiliğindenısınmasını / çözünmesi sağlayın.•El ve ayakları doğal pozisyonda tutun.•Hala halsizlik varsa bezle bandaj yapın.•Tıbbi yardım isteyin."
+        }]
+    }, {
+        "title": "Kırık, Çıkık ve Burkulmalar",
+        "content": "Kemik bütünlüğünün bozulmasıdır. Kırıklar, darbesonucu ya da kendiliğinden oluşur ",
+        "subtitles": [{
+            "title": "Kırık Çeşitleri",
+            "content": "Kapalı Kırık: Kemik bütünlüğü bozulmuştur. Ancakderi sağlamdır.Açık Kırık: Deri bütünlüğü bozulmuştur.Kemik uçlarıdışarı çıkabilir,beraberinde kanama ve enfeksiyon riskivardır.Parçalı Kırık: Kemik birden fazla yerden kırılmıştır.Kırık Belirtileri Nelerdir ? •Bölgenin hareket edilmesi ile artan yoğun ağrı,•Şekil bozukluğu(Diğer sağlam organ ile karşılaştırılır),•Bölgede ödem ve kanama sonucu morarma,•İşlev kaybı,•Hareketlerde kısıtlama,•Şişlik.Kırığın Yol Açabileceği Olumsuz Durumlar : •Kırık yakınındaki damar,sinir ya da kaslardayaralanma ve sıkışma(Kırık bölgede nabız alınamaması, soğukluk, solukluk, aşırı hassasiyet),•Parçalı kırıklarda kanamaya bağlı şok,•Açık kırıklarda enfeksiyon riski görülebilir "
+        }, {
+            "title": "Kırıklarda İlk Yardım",
+            "content": "• Yaşamı tehdit eden başka yaralanma varsa önceliğiona verin.•Hasta / yaralıyı hareket ettirmeyin.•Ani hareketlerden kaçının,kırığı yerine koymayaçalışmayın.•Kırık kolda ise;ödem oluşacağından yüzük,saat vb.eşyaları çıkarın.•Kırık olan bölgenin hareket etmesini önleyin.•Açık kırık varsa;tespitten önce yaranın üzerinitemiz bir bezle kapatın.•Kırık olan bölgeyi birüst ve bir alt eklemide içine alacak şekildekarton,tahta vb.sertcisimle tespit edin.•Tespit edilen bölgeyiyukarıda tutarak dinlenmeye alın.•Kırık bölgedeki nabzı ve derinin rengini kontroledin.•Hastayı sıcak tutun.•Tıbbi yardım sağlayın.•Kırık olan bölgenin hareket ettirilmesine izin vermeyin "
+        }, {
+            "title": "Burkulmalarda İlk Yardım",
+            "content": "• Burkulan eklemi sıkıştırıcı bir bandajla dolaşımıengellemeyecek şekilde tespit edin.•Şişliği azaltmak için bölgeyi yukarı kaldırın.•Soğuk uygulama yapın.•Bölgeyi hareket ettirmeyin.•Uzun süre geçmiyorsa,tıbbi yardım isteyin "
+        }, {
+            "title": "Çıkıkta İlk Yardım",
+            "content": "• Eklemi bulunduğu şekilde tespit edin.•Çıkığı asla yerine oturtmaya çalışmayın.•Hasta / yaralıya ağızdan hiçbir şey vermeyin.•Bölgedeki nabız,deri rengi ve ısıyı kontrol edin.•Tıbbi yardım sağlayın."
+        }]
+    }, {
+        "title": "Hayvan Isırıkları ve Böcek Sokmaları",
+        "subtitles": [{
+            "title": "Kedi - Köpek Isırmalarında İlk Yardım",
+            "content": "Hafif Yaralanmalarda;•Yarayı 5 dakika süreyle sabun ve soğuk suyla yıkayın.•Yaranın üzerini temiz bir bezle kapatın.Ciddi Yaralanma ve Kanama Varsa;•Yaraya temiz bir bezle basınç uygulayarakkanamayı durdurun.•Derhal tıbbi yardım(112) sağlayın ve hastayı kuduzaşısı olması konusunda uyarın."
+        }, {
+            "title": "Arı Sokmasında İlk Yardım",
+            "content": "• Yaralı bölgeyi yıkayın.•Arının iğnesi derinin üzerinden görünüyorsa çıkarın.•Amonyak vb.kullanmadan soğuk su ile soğukuygulama yapın.•Eğer ağızdan sokma varsa solunum güçleşmişsehastanın buz emmesini sağlayın.•Ağız içi sokmalarında ve alerjisi olanlar için tıbbiyardım isteyin."
+        }, {
+            "title": "Akrep Sokmasında İlk Yardım ",
+            "content": "• Sokmanın olduğu bölgeyi hareket ettirmeyin!•Yatar pozisyonda tutun,•Yaraya soğuk uygulama yapın,•Kan dolaşımını engellemeyecek şekilde bandajuygulayın,•Turnike uygulamayın!•Yara üzerine hiçbir girişim yapmayın(kesilmez,    emilmez vb.)."
+        }, {
+            "title": "Yılan Sokma / Isırmalarında İlk Yardım",
+            "content": "• Hastayı sakinleştirip dinlenmesini sağlayın.•Yarayı su ile yıkayın.•Yaraya yakın bölgedeki baskı yapabilecek eşyalarıçıkarın(yüzük, bilezik, saat vb.).•Yaraya soğuk uygulama yapın.•Yaralanan bölgeye dolaşımı engellemeyecek şekildebandaj yapın.•Turnike uygulamayın!•Yaralıyı mümkün olduğunca hareket ettirmeyin.•Yara üzerine hiçbir müdahale yapmayın(kesme,    emme vb.).•Yaşam bulgularını izleyin.•Tıbbi yardım isteyin."
+        }, {
+            "title": "Deniz Canlıları Sokmasında İlk Yardım",
+            "content": "• Kişiyi hareket ettirmeyin.•Etkilenen bölgeyi ovmayın.•Batan diken varsa ve görünüyorsa çıkarın.•Deniz hayvanlarının enzimleri sıcağa karşı dayanıksızolduğundan sıcak uygulama yapın.•Sağlık kuruluşundan yardım talep edin "
+        }]
+    }, {
+        "title": "Yaralanmalar",
+        "subtitles": [{
+            "title": "Yara Çeşitler",
+            "content": "Kesik Yara: Cam, bıçak gibi kesici aletlerle olanyaralardır.Ezik Yara: Taş,sopa,yumruk gibi sert bir cisminçarpması sonucu olan yaralardır.Delici Yara: Uzun ve sivri aletlerle olan yaralardır.Enfekte Yara: Derin ve kirli yaralar,ısırma,sokmasonucu olan yaralardır."
+        }, {
+            "title": "Yaralanmalarda İlk Yardım ",
+            "content": "• Kanama varsa durdurun.•Batan cisim varsa çıkarmayın.kizilay_ilk_yardim_kitapcigi.indd 40 14.04 .2015 11: 0241Yaralanmalar• Yaralının sağlık kuruluşuna gitmesini sağlayın.•Yaralıyı tetanoz konusunda uyarın.•Delici göğüs yaralanmalarında yaralının bilinciyerindeyse yarı oturur şekilde oturtun;sırtınıdestekleyin ve ayaklarını 30 cm yükselterek şokpozisyonu vererek 112 acil servisi arayın.•Delici karın yaralanmalarında hastayı sırt üstüyatırın ve 112 acil servisi arayın."
+        }, {
+            "title": "Delici Göğüs Yaralanmalarında İlk Yardım",
+            "content": "• Hasta/yaralının bilincini kontrol edin.•Hasta / yaralının yaşam bulgularını değerlendirin.•Yaranın üzerini tercihen plastik poşet vb.içerensarılmış bez ile kapatın.•Nefes alma sırasında yaraya hava girmesiniengellemek,nefes verme sırasında havanın dışarıçıkmasını sağlamak için yara üzerine konan bezinbir ucunu açık bırakın.•Bilinç açık ise hasta / yaralıyı yarı oturur pozisyondatutun.•Hasta / yaralıya ağızdan hiçbir şey vermeyin.•Hasta / yaralının yaşam bulgularını sık sık kontroledin.•Şok önlemlerini alın.•Tıbbi yardım isteyin(112)."
+        }, {
+            "title": "Delici Karın Yaralanmalarında İlk Yardım",
+            "content": "• Hasta/yaralının bilinç kontrolünü yapın.•Hasta / yaralının yaşam bulgularını kontrol edin.•Dışarı çıkan organları içeri sokmaya çalışmayın,üzerlerini geniş,nemli ve temiz bir bezle örtün.•Bilinç yerinde ise sırt üstü pozisyonda bacaklarbükülmüş olarak yatırın,ısı kaybını önlemek içinhasta / yaralının üzerini örtün.•Ağızdan yiyecek ya da içecek bir şey vermeyin.•Yaşam bulgularını sık sık izleyin.•Tıbbi yardım isteyin(112)."
+        }, {
+            "title": "Kafatası ve Omurga Yaralanmalarında İlk Yardım",
+            "content": "• Bilinç ve diğer yaşam bulgularını değerlendirin.•Tıbbi yardım için 112’ yi arayın.•Bilinci açıksa;hasta / yaralının hareket etmemesinisağlayın.•Herhangi bir tehlike söz konusu ise ayaklarındantutarak düz pozisyonda sürükleyin.•Hasta / yaralının olay yerinde,taşıma vesevki sırasında;baş - boyun - gövde eksenininbozulmamasına ve sarsıntıya maruz kalmamasınadikkat edin.•Tüm yapılanları ve hasta yaralı hakkındaki bilgilerikaydedip gelen ekibe bildirin.•Hasta / yaralıyı asla yalnız bırakmayın."
+        }]
+    }, {
+        "title": "Zehirlenmeler",
+        "subtitles": [{
+            "title": "Zehirlenmeler Ne Şekilde Meydana Gelir?",
+            "content": "Üç yolla meydana gelir.    Sindirim Yolu İle: Ev veya bahçede kullanılan kimyasal    maddeler,    zehirli mantarlar,    bozuk besinler,    aşırı ilaç ve    alkol alınması sonucu oluşur.    Solunum Yolu İle: Genellikle karbon monoksit gazı(tüp kaçakları, şofben, sobalar),    lağım çukurunda    biriken karbondioksit,    klor,    yapıştırıcılar,    boyalar,    ev    temizleyicileri vb.ile meydana gelir.    Cilt Yolu İle: Zehirli madde vücuda deri yoluyla girer.    İlaç enjeksiyonu,    zehirli bitkilere temas,    zirai ilaçlar,    zehirli hayvanların ısırması ve sokması sonucu oluşur.    "
+        }, {
+            "title": "Zehirlenme Belirtileri",
+            "content": "Sindirim Sistemi: Bulantı, karın ağrısı, kusma, ishal.    Sinir Sistemi: Rahatsızlık hissi,    hareketlerde uyumsuzluk,    havale,    bilinç kaybı.    Solunum Sistemi: Nefes darlığı,    morarma,    solunum    durması.    Dolaşım Sistemi: Nabız bozukluğu,    kalp durması "
+        }, {
+            "title": "Sindirim Yolu İle Zehirlenmede İlk Yardım",
+            "content": "• Bilinci kontrol edin.•    Sadece ağız zehirli maddeyle temas etmişse su ile    çalkalayın.•El ile temas etmişse eli sabunlu su ile yıkayın.•Yaşam bulgularını değerlendirin.•Kusma,    bulantı,    ishal vb.belirtileri değerlendirin.•Bilinç kaybı varsa koma pozisyonuna getirin.•Hastanın üstünü örtün.•112’ yi arayın.•Olayla ilgili bilgileri toplayarak kaydedin(Zehirli maddenin türü, ilaç ya da uyuşturucu alıyor mu,        hastanın bulunduğu saat, evde ne tür ilaçlar        var).•Özellikle yakıcı maddenin alındığı durumlarda hasta    asla kusturulmaz!"
+        }, {
+            "title": "Solunum Yolu İle Zehirlenmede İlk Yardım",
+            "content": "• Olay yerinin güvenliğini sağlayın (Cam ve kapıları    açarak ortamı havalandırın ya da hastayı temiz    havaya çıkarın).•Yaşamsal belirtileri değerlendirin.•Rahat nefes alabilmesi için hastayı yarı otururpozisyonda tutun.•Bilinci kapalı ise koma pozisyonu verip 112’ yi arayın "
+        }, {
+            "title": "Deri Yolu İle Zehirlenmede İlk Yardım",
+            "content": "• Olay yerinin güvenliğini sağlayın.•Yaşam bulgularını değerlendirin.•Ellerin zehirli madde ile temasını önleyin.•Zehir bulaşmış giysileri çıkarın.•Deriyi 15 - 20 dakika boyunca bol suyla yıkayın.•112’ yi arayın.Zehirlenme olaylarında,zehirlenmeyle ilgilibilgiler toplanarak kaydedilir(Zehirli maddenin türü, ilaç ya da uyuşturucu alıyor mu, hastanın bulunduğu saat, evde ne tür ilaçlar    var)."
+        }, {
+            "title": "Zehirlenmelerde Genel İlk Yardım",
+            "content": "• Zehirlenmeye neden olan maddeyi vücuttanuzaklaştırın(Zehirli madde vücuttan ne kadar çabuk uzaklaştırılırsa o kadar az miktarda emilir).•Hayati fonksiyonların devamını sağlayın.•Sağlık kuruluşuna(112) bilgi verin.•Zehir danışma merkezi 114’ ü arayın."
+        }, {
+            "title": "Şofben Kazalarında İlk Yardım",
+            "content": "• Kişiyi ortamdan uzaklaştırın.•Hareket ettirmeyin.•Yaşam bulgularını değerlendirin.•Havayolu açıklığını sağlayın.•Tıbbi yardım isteyin(112).•Banyoyu içeriden kilitlemeyin.•Şofbeni iyi çeken bir bacaya bağlayın.•Şofbenin olduğu yere bol hava girişi sağlayın.•Şofben ile tüp arasındaki hortumun 125 cm’ denuzun olmamasına dikkat edin.•Banyodaki kişileri kontrol edin."
+        }]
+    }, {
+        "title": "Göze, Kulağa ve Buruna YabancıCisim Kaçması / Batması ",
+        "subtitles": [{
+            "title": "Göze Yabancı Cisim Kaçmasında İlk Yardım",
+            "content": "Toz, kirpik gibi madde ise;•Gözü ışığa çevrin,alt göz kapağına bakın.•Gerekiyorsa üst göz kapağına bakın.•Nemli,temiz bir bezle çıkartın.•Yaralıya gözünü kırpıştırmasını söyleyin.•Bol su ile yıkayın.•Gözü ovmayın.•Çıkmıyorsa sağlık kuruluşuna sevk edin.Metal veya batan bir cisimse;•Gerekmedikçe hastayı kımıldatmayın.•Göze hiçbir müdahale yapmayın.•Tıbbi yardım isteyin.•Hastanın göz uzmanlık dalı olan bir sağlık kuruluşunagitmesini sağlayın.•Her iki gözün kapatılmasını sağlayın."
+        }, {
+            "title": "Kulağa Yabancı Cisim Kaçmasında İlk Yardım",
+            "content": "• Kesinlikle sivri ve delici bir cisimle müdahale etmeyin.•Su değdirmeyin.•Tıbbi yardım isteyin."
+        }, {
+            "title": "Buruna Yabancı Cisim Kaçmasında İlk Yardım",
+            "content": "• Burun duvarına bastırarak kuvvetli bir nefes vermeile cismin atılmasını sağlayın.•Çıkmazsa tıbbi yardım isteyin."
+        }]
+    }, {
+        "title": "Hasta/Yaralı Taşıma",
+        "subtitles": [{
+            "title": "Hasta/Yaralı Taşırken Dikkat Edilmesi Gerekenler",
+            "content": "• Baş-boyun-gövde ekseni esas alınmalı,•Ekip çalışması yapılmalı,•Hasta / yaralıya yakın mesafede çalışılmalı,•Daha uzun ve kuvvetli kas grupları kullanılmalı,•Sırtın gerginliğini korumak için dizler kalçadanbükülmeli,•Yerden destek alacak şekilde,her iki ayak kullanılmalıve biri diğerinden öne yerleştirilmeli,•Omuzlar leğen kemiği hizasında tutulmalı,•Ağırlık kaldırırken karın muntazam tutulup kalçakasılmalı,•Kalkarken ağırlık kalça kaslarına verilmeli,•Yavaş ve düz adımlarla yürünmeli(adımlar omuzdan geniş olmamalı),•Ani dönme ve bükülmelerden kaçınılmalı;hasta /yaralı az hareket ettirilmelidir."
+        }]
     }
 ]
